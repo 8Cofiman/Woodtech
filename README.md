@@ -1,4 +1,4 @@
-# multipage site Woodtech
+# Multipage site Woodtech
 ![woodtech logo](IMG/logo.svg)
 
 Multipage site on **html**, **css** and minimal **js**.
